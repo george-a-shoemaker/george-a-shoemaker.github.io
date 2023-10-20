@@ -20,3 +20,11 @@ This file manages Ruby dependencies (ie gems).
 
 As suggested by the comments, this project should be using the `github-pages` gem instead of `jekyll`
 
+## Theme
+
+Out of the box you can use a Gem-based theme such as `minima`.
+
+I want to tinker with the layout so I copied the relevant theme directories: `_includes, _layouts, _sass, assets` into the root project directory
+
+This means I'm using a "regular", ie hard-coded theme
+

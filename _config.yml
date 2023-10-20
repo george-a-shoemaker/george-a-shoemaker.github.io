@@ -24,7 +24,8 @@ github_username:  george-a-shoemaker
 
 # Build settings
 markdown: kramdown
-theme: minima
+# removed minima theme, using a hardcoded theme (aka regular theme in Jekyll lingo)
+# theme: minima
 plugins:
   - jekyll-feed
 
