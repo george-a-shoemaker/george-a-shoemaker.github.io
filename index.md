@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+
+This is my blog!
+
+<a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+
+[link to Software Blog](https://www.google.com)  
+[link to Misc Blog](https://www.google.com)
