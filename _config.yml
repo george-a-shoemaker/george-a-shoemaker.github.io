@@ -25,6 +25,12 @@ github_username:  george-a-shoemaker
 # author key is used by minima, but not included in default template
 author: George Shoemaker
 
+# header-pages is used by minima to set the pages & their order explicitly
+header_pages:
+- resume.md
+- software-blog/index.md
+- personal-blog/index.md
+
 # Custom keys
 ## Adds copyright line to footer with symbol and current year
 copyright: George Shoemaker

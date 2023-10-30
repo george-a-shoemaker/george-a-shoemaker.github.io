@@ -7,9 +7,7 @@ title: "Personal Blog 💡"
 category: personal
 ---
 
-This is where I write about things interests me. Running, surfing, living abroad...
-
-[Link to HOME]({{ site.baseurl }}/)
+This is where I write about things that interst me. Running, surfing, living abroad, etc.
 
 {%- for path in page_paths -%}
   {%- assign my_page = site.pages | where: "path", path | first -%}
