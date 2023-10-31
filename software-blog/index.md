@@ -7,4 +7,4 @@ title: "Software Blog 👨‍💻"
 category: software
 ---
 
-I mostly write about iOS programming 📱.
+I mostly write about iOS programming 📱
