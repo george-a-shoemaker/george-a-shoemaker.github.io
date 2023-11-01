@@ -11,7 +11,7 @@ This is the inaugural post of my blog and I wanted to highlight some wisdom that
 
 > Showing up is 80% of life. – [Woody Allen][woody-allen]{{ site.blank-target }}
 
-This is a popular addage among my mother's generation and I credit her with sharing it with me. You might hear variations of it that replace the word *life* with *success*.
+This is a popular adage among my mother's generation and I credit her with sharing it with me. You might hear variations of it that replace the word *life* with *success*.
 
 I prefer *life* because it feels more individual — we get to make choices to shape our own lives. Whereas *success* invokes criteria impressed upon us by our upbringing and society. And depending on what criteria you've internalized, *success* might be overrated.
 
@@ -29,7 +29,7 @@ I knew very little about the group beforehand. I'm confident in my ability to ru
 
 I found the group at the [track][plan-sexenal]{{ site.blank-target }}. I chatted with the coach, Alejandro. My intermediate Spanish held up! He started me off with 400m repeats at 85 seconds. I wound it down to 75 seconds by the 7th interval.
 
-For the last interval, Alejandro paced me for the first 250m. As instrucuted, I kicked the remaing 150m for a time of 71 seconds. This was followed by stretching and strenghthening that exposed my lack of flexibility and general strength.
+For the last interval, Alejandro paced me for the first 250m. As instructed, I kicked the remaining 150m for a time of 71 seconds. This was followed by stretching and strengthening that exposed my lack of flexibility and general strength.
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mafia-running.jpg" alt="Running Mafia group photo">

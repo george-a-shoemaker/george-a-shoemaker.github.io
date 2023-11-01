@@ -53,7 +53,7 @@ In my experience it's best to take your time and count out each step... 1. Cobra
 
 2023-10-23
 
-A suprising sentiment from Morgan the test subject: "Way more fun than snowboarding!". Surprising because most beginners (myself included) quickly realize that surfing involves a lot of paddling and coping with the chaos of breaking waves just to get into position. So I was doing my job effectively as the instructor by managing those challenges and letting Morgan focus on the fun part: catching waves and standing up.
+A surprising sentiment from Morgan the test subject: "Way more fun than snowboarding!". Surprising because most beginners (myself included) quickly realize that surfing involves a lot of paddling and coping with the chaos of breaking waves just to get into position. So I was doing my job effectively as the instructor by managing those challenges and letting Morgan focus on the fun part: catching waves and standing up.
 
 ### Specifics of the lesson
 
@@ -69,7 +69,7 @@ I found two ways to manage Morgan's board as we negotiated the relentless white 
 1. Grab the nose and toe your student, mostly relying on the fins to kick under the board.
 	- Pros: You can face the student and talk them directly. When a wave comes you can maintain good purchase on the board as the tail lifts while you sink. This helps to anchor them and keep them from getting pushed backwards.
 	- Cons: It can be tiring to pull a board this way. Going over bigger waves it might be counterproductive to weight the nose of the board.
-2. [Prefferred method] Push the student from the tail of the board, mainting an extended rigid arm.
+2. [Preferred method] Push the student from the tail of the board, maintaining an extended rigid arm.
 	- Pros: You can propel the student more efficiently this way, using one arm to take strokes if you want. You have more leverage to change their angle quickly from the rear.
 	- If you don't maintain a rigid arm you might get bonked in the head by the board or the student's foot. Harder to communicate with the student from behind.
 
@@ -83,7 +83,7 @@ What's hardly scary to you might be terrifying to your student. Also the experie
 
 I was confident that Morgan could recover from a wipe out and retrieve her board, because I saw her open water swim skills the day before. If you perceive that your student is *not* a strong swimmer, you should be extremely selective about the conditions you enter the water with them (or simply choose not to get in with them).
 
-Once I saw Morgan surface from a wipeout with eyes wide open, fight or flight mode. Not everyone can handle that. And at least once she asked to take a break while were getting pummled by white wash. When I do another lesson, I will encourage this from the student: tell me when you're overwhelmed or need a break sooner rather than later. Surfing is about navigating fear, not being overhwelmed by it (which is a likely indication that the situation has become dangerous).
+Once I saw Morgan surface from a wipeout with eyes wide open, fight or flight mode. Not everyone can handle that. And at least once she asked to take a break while were getting pummeled by white wash. When I do another lesson, I will encourage this from the student: tell me when you're overwhelmed or need a break sooner rather than later. Surfing is about navigating fear, not being overwhelmed by it (which is a likely indication that the situation has become dangerous).
 
 ### Next steps for Morgan
 
@@ -104,7 +104,7 @@ Once you've paddled out the back, you should generally be sitting up on the boar
 </ol>
 
 
-These steps are far more woo-woo than that pop-up itself. It requires experiene and observation to successfully gauge whether you have a chance to catch a wave vs being too deep and wiping out.
+These steps are far more woo-woo than that pop-up itself. It requires experience and observation to successfully gauge whether you have a chance to catch a wave vs being too deep and wiping out.
 
 No two waves in the ocean are exactly the same which makes learning to make waves and stand up even harder. It requires observation of waves breaking and the sensation of catching a wave combined with efficient and purposeful movements executed at the right time.
 
@@ -118,7 +118,7 @@ It seems that for many beginner board surfers (myself included) there is a pipel
 
 And because the apparent "learn to surf" pipeline begins with boards, it's as if body surfing, mats, boogie boards and swimming itself don't "count" when I think they really do!
 
-I am a *surfer*. Rarely do I surf on a board but I have deep experiental knowledge of *catching waves*.
+I am a *surfer*. Rarely do I surf on a board but I have deep experiential knowledge of *catching waves*.
 
 ## Make sure they have fun
 

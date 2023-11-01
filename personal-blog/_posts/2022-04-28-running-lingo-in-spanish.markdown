@@ -56,11 +56,11 @@ To produce the list above, I didn't google anything. I considered the direct mea
 
 > [Spanish] ↔ [MEANING] ↔ [English] 
 
-To learn words this way you need to have meaningful experiences with the language in context. An easy way to do this is to consume podcasts / tv / movies because hopefully the narrative & topics are engaging and meaningful. The media iteself builds up context that allows you to derive the meaning of words.
+To learn words this way you need to have meaningful experiences with the language in context. An easy way to do this is to consume podcasts / tv / movies because hopefully the narrative & topics are engaging and meaningful. The media itself builds up context that allows you to derive the meaning of words.
 
-In my case, I'm learning in a group of Spanish speakers while doing a familiar activity: competive running. I have a wealth of context and embodied knowledge in this environment, but the language is foreign.
+In my case, I'm learning in a group of Spanish speakers while doing a familiar activity: competitive running. I have a wealth of context and embodied knowledge in this environment, but the language is foreign.
 
-So to learn some Spanish all I need to do is listen to what's being said and try to map those words to the context of the moment. For example I was stuck on how to say "splits" in the context of running (i.e. a measurment of time at an intermeidate distance). I rememember when the coach said the equivalent word: "parciales". And it's stuck with me. 
+So to learn some Spanish all I need to do is listen to what's being said and try to map those words to the context of the moment. For example I was stuck on how to say "splits" in the context of running (i.e. a measurement of time at an intermediate distance). I remember when the coach said the equivalent word: "parciales". And it's stuck with me. 
 
 In fact there are many words in Spanish where I can remember the exact situation where I learned it. That's what you want. Words triggering past experiences. Or familiar experiences conjuring words. It's just so much faster and more intuitive than slogging through translations.
 

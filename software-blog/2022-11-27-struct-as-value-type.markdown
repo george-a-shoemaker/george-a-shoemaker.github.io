@@ -26,7 +26,7 @@ We have a `Coordinate` type with mutable variables. As a side-effect, we can mut
 
 Swift's `mutating` keyword is interesting. Unlike methods of a class, you must opt-in to self-mutating methods of a Swift struct.
 
-And a consumer of the struct can choose to restrict these methods if they declare the struct as a `let` constant. This feels very differnt to a class / *reference* type where as long as you don't *reassign* the class variable, you can mutate the internals of the class to your heart's content.
+And a consumer of the struct can choose to restrict these methods if they declare the struct as a `let` constant. This feels very different to a class / *reference* type where as long as you don't *reassign* the class variable, you can mutate the internals of the class to your heart's content.
 
 ```
 struct Coordinate {
@@ -93,7 +93,7 @@ arr.append(0) // there's no allocated space for this additional value
 print(UnsafeRawPointer(&arr)) // new address !!
 print(arr.capacity) // 20. The append was possible because the items were copied to a newly allocated block of memory
 ```
-Whereas a normal struct will overwrite memory whenever possible (usually because the Automatic Reference Counter has a value of 1 reference to the struct, so a mutation won't cause any suprises), resizing an array requires that we allocate a new block of memory elsewhere. So this is an example where not only the memory was mutated with `append()`, the pointer value changed as well.
+Whereas a normal struct will overwrite memory whenever possible (usually because the Automatic Reference Counter has a value of 1 reference to the struct, so a mutation won't cause any surprises), resizing an array requires that we allocate a new block of memory elsewhere. So this is an example where not only the memory was mutated with `append()`, the pointer value changed as well.
 
 ## In conclusion
 
@@ -101,4 +101,4 @@ The big takeaway is that mutability of structs, or a *value* types in general, i
 
 Whenever possible, Swift will overwrite existing memory when mutating a struct, and will make a new copy if you try to assign a *value* type to an additional variable.
 
-Only if absolutely necesarray will the Swift compiler reassign the pointer value of a struct variable.
+Only if absolutely necessary will the Swift compiler reassign the pointer value of a struct variable.

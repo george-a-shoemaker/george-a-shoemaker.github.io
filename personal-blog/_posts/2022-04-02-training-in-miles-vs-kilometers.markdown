@@ -70,7 +70,7 @@ Here's a table for quick reference. The same math presented below for distances 
 2. 8/10 = 0.8
 3. 4 + 0.8 = 4.8
 
-*8km is approximately 4.8mi.* This approximation *understimates* the distance in miles by about 4%.
+*8km is approximately 4.8mi.* This approximation *underestimates* the distance in miles by about 4%.
 
 
 
