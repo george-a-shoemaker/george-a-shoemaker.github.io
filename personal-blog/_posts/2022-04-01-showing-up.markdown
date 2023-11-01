@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: post
 title:  "Showing up"
 date:   2022-04-01 12:00:00 -0600
-categories: running
+category: personal
+tag: travel
 ---
 
 
