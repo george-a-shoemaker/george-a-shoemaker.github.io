@@ -5,10 +5,6 @@ date:   2023-10-31 00:00:00 -0700
 category: personal
 ---
 
-# George teaches surfing
-
-2023-10-23
-
 I am mediocre at surfing boards -- my preference is to body or mat surf. However I've taken (board) surf lessons so I know the basics.
 
 My friend Morgan is rolling thru SF and wants to try surfing. Today we swam at the Aquatic Park in SF and she is competent in open water. So why not surf Linda Mar Beach in Pacifica? The ideal beginner's beach complete with a Taco Bell!
