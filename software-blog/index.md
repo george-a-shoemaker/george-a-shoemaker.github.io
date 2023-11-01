@@ -8,5 +8,3 @@ category: software
 ---
 
 I mostly write about iOS programming 📱
-
-
