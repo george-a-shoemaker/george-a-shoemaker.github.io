@@ -5,9 +5,9 @@ date:   2023-10-31 00:00:00 -0700
 category: personal
 ---
 
-I am mediocre at surfing boards -- my preference is to body or mat surf. However I've taken (board) surf lessons so I know the basics.
+I am mediocre at surfing boards. My preference is to body or mat surf. However I've taken (board) surf lessons so I know the basics.
 
-My friend Morgan is rolling thru SF and wants to try surfing. Today we swam at the Aquatic Park in SF and she is competent in open water. So why not surf Linda Mar Beach in Pacifica? The ideal beginner's beach complete with a Taco Bell!
+My friend Morgan is rolling thru SF and wants to try surfing. Today (10/23/23) we swam at the Aquatic Park in SF and she is competent in open water. So why not surf Linda Mar Beach in Pacifica? The ideal beginner's beach complete with a Taco Bell!
 
 ## The lesson plan
 
@@ -31,13 +31,11 @@ This is how I think the lesson will go. It will be interesting to see if my visi
 #### 3. Pop-up talk
 **Prerequisite:** Are you balanced while lying on the board? Are your finger tips lined up with your fore-and-aft reference point? Is the nose of the board pointing at the beach?
 
-**Step 0, Paddle**: *[I elaborate on this step below]* For a beginner this is should be managed by the instructor who will push the student into a wave.
-
-	With a wave coming you should be pointing at the beach, ready to paddle, positioned well and look over your shoulder. You want to gauge what the wave is doing, judging how much you need to paddle, identifying if the peak is to your left or right and aware of other surfers that might have priority. Sometimes you need to paddle more to not miss the wave. Sometimes you need not paddle hardly at all and risk paddling to deep. It's a beginner mistake to paddle like a maniac every time without awareness of what the wave is actually doing. Catching a wave is about timing and position over sheer paddling strength. The ultra-strong Kelly Slater-types need a lot of strength because the boards themselves are difficult to paddle and are optimized for turning performance over plaining / paddle speed.
+**Step 0, Paddle**: *[I elaborate in **Next steps for Morgan** below]* For a beginner this is should be managed by the instructor who will push the student into a wave.
 
 **Step 1**: Cobra. Plant hands under shoulder sockets, arch back and press into your knees. Feel the "lift" of the wave which is an indicator that you've caught it. Pressing into your knees and therefore the tail of the board should help you catch the wave.
 
-> Physics aside: At face value the cobra position helps you keep the nose from plunging into the water as the wave steepens... but it also helps you catch the wave better. If you press your weight into the tail through your knees the, the tail experiences two opposing forces: gravity pushing down and the wave pushing up. The board has nowhere to go but forward and will accelerate! I must credit [Ombe Surf](https://www.youtube.com/@ombesurf) on youtube for this concept which they call "Oreo Biscuit" (squeeze the back of an oreo cookie, and the veggie oil filling has nowhere to go but forward).
+*Physics aside:* At face value the cobra position helps you keep the nose from plunging into the water as the wave steepens... but it also helps you catch the wave better. If you press your weight into the tail through your knees the, the tail experiences two opposing forces: gravity pushing down and the wave pushing up. The board has nowhere to go but forward and will accelerate! I must credit [Ombe Surf](https://www.youtube.com/@ombesurf) on youtube for this concept which they call "Oreo Biscuit" (squeeze the back of an oreo cookie, and the veggie oil filling has nowhere to go but forward).
 
 **Step 2**: Place your back foot and "tripod". The key is that you are pressing into the board symmetrically with hands evenly spaced under shoulder sockets and your back foot pressing into the center of the board.
 
@@ -47,11 +45,11 @@ Of course there are more dynamic ways to pop up on a surfboard but that requires
 
 In my experience it's best to take your time and count out each step... 1. Cobra when the wave catches (observe the "lift" sensation for a moment) 2. Tripod 3. Step forward and stay low
 
-==========================
+---
 
-## How the lesson went: Very well!
+## Reflecting on the lesson
 
-2023-10-23
+10/24/23
 
 A surprising sentiment from Morgan the test subject: "Way more fun than snowboarding!". Surprising because most beginners (myself included) quickly realize that surfing involves a lot of paddling and coping with the chaos of breaking waves just to get into position. So I was doing my job effectively as the instructor by managing those challenges and letting Morgan focus on the fun part: catching waves and standing up.
 
@@ -61,9 +59,7 @@ A surprising sentiment from Morgan the test subject: "Way more fun than snowboar
 2. Conditions at Linda Mar were 4ft set waves, a bit big for beginners, with a 10 second period. This meant I spent most of the time with her in the white wash, quickly turning her around, and immediately pushing her into the next broken wave. A bit hectic but such is surfing -- waves wait for no one.
 3. I was in the water if swim fins. This means I have a lot of "hands free" thrust and mobility. I could really easily body surf back to Morgan after she caught a wave. Ocean swim fins (Yucca, DaFin) are a great tool.
 
-### What I learned about teaching surfing
-
-#### Managing the student's board
+### Managing the student's board
 I found two ways to manage Morgan's board as we negotiated the relentless white water:
 
 1. Grab the nose and toe your student, mostly relying on the fins to kick under the board.
@@ -73,7 +69,7 @@ I found two ways to manage Morgan's board as we negotiated the relentless white 
 	- Pros: You can propel the student more efficiently this way, using one arm to take strokes if you want. You have more leverage to change their angle quickly from the rear.
 	- If you don't maintain a rigid arm you might get bonked in the head by the board or the student's foot. Harder to communicate with the student from behind.
 
-#### Awareness of fear
+### Awareness of fear
 
 Being in tune with your fear as a surfer is critical. As an instructor you need to additionally gauge your student's fear which requires effort and observation.
 
@@ -96,13 +92,12 @@ If Morgan didn't submerge the nose on take-off, she was standing nearly all the 
 Once you've paddled out the back, you should generally be sitting up on the board, parallel to the beach, watching for waves.
 
 <ol type="a">
-  <li>When you've identified an approaching wave, pivot the board to face the beach and assume your prone starting position. This is something you must drill for consistency. Really competent surfers can do this step in a second without thinking.</li>
-  <li>Look over your shoulder to identify where you think the peak will be (over your left or right shoulder). Gauge how much you need to paddle. Consider paddling towards the peak to capture more wave-catching energy.
-<li>As the wave is about to reach you consider angling your board away from the peak (going left or right) to help you set a line and trim down the wave once you've popped up.</li>
-<li>All the while keep an eye out for other surfers that might have priority. To pull-out at this time, sit up on the board and sink the tail to let the wave pass.</li>
-<li>Take your last strokes with purpose as the wave starts sucking and initiate the pop-up <b>Step 1</b> when you feel the "lift" of the wave.</li
+	<li>When you've identified an approaching wave, pivot the board to face the beach and assume your prone starting position. This is something you must drill for consistency. Really competent surfers can do this step in a second without thinking.</li>
+	<li>Look over your shoulder to identify where you think the peak will be (over your left or right shoulder). Gauge how much you need to paddle. Consider paddling towards the peak to capture more wave-catching energy.</li>
+	<li>As the wave is about to reach you consider angling your board away from the peak (going left or right) to help you set a line and trim down the wave once you've popped up.</li>
+	<li>All the while keep an eye out for other surfers that might have priority. To pull-out at this time, sit up on the board and sink he tail to let the wave pass.</li>
+	<li>Take your last strokes with purpose as the wave starts sucking and initiate the pop-up <b>Step 1</b> when you feel the "lift" of the wave.</li>
 </ol>
-
 
 These steps are far more woo-woo than that pop-up itself. It requires experience and observation to successfully gauge whether you have a chance to catch a wave vs being too deep and wiping out.
 
@@ -110,7 +105,7 @@ No two waves in the ocean are exactly the same which makes learning to make wave
 
 When I was a surf student, the instructor would get progressively more hands off until I was catching waves under my own power, all the while shouting instructions to help the student time their movements correctly: "REMA, REMA!" (paddle in Spanish), "UP!".
 
-## I don't want to be Kelly Slater
+### I don't want to be Kelly Slater
 
 Traditionally in Hawaii kids start out swimming, then body surfing, then maybe progress to a [paipo](https://en.wiktionary.org/wiki/paipo) before graduating to standing boards. This is closer to my own journey into surfing which began with swimming and a nameless intuition to body surf before I realized that was an activity in and of itself.
 
@@ -120,7 +115,7 @@ And because the apparent "learn to surf" pipeline begins with boards, it's as if
 
 I am a *surfer*. Rarely do I surf on a board but I have deep experiential knowledge of *catching waves*.
 
-## Make sure they have fun
+### Make sure they have fun
 
 After getting Morgan to stand up on her board a few times, we took a break and I stuck her in fins and towed her out on the surf mat. A decent four foot wave arrived and I told her to just hold on and she rode it all the way to the beach laughing her ass off. Yep that's the magic of surf mats. It takes a minute to learn and a lifetime to master -- always chasing the next thrill by pushing the limits of what you can do.
 
