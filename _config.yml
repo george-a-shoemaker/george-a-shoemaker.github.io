@@ -17,7 +17,7 @@ title: George Shoemaker
 email: george.shoemaker.business@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
   # A blog with two feeds. A blog with two feeds. Etc, etc, etc, etc, etc.
-baseurl: "/scratch-blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://george-a-shoemaker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  george-a-shoemaker
